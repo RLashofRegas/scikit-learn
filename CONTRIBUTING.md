@@ -23,7 +23,7 @@ GitHub, clone, and develop on a branch. Steps:
 
 2. Clone your fork of the scikit-learn repo from your GitHub account to your local disk:
 
- - Go to the repository you just created on your GitHub page (https://github.com/<Your Username>/scikit-learn)
+ - Go to the repository you just created on your GitHub page (https://github.com/`Your Username`/scikit-learn)
  - Click on the green "Clone or Download" button and copy the URL listed
  
    ```bash
